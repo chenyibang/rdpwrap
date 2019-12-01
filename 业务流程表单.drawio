@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-01T05:51:33.659Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="FGDBLQcnYWR7DVztTk2a" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-01T06:16:15.886Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="I8-9ExkyEqZcpOLQSFty" version="12.3.3" type="github" pages="1">
   <diagram id="qYqDt66bANYwKAUjIp7B" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,6 +247,9 @@
             <mxPoint x="8" y="320" as="sourcePoint"/>
             <mxPoint x="758" y="320" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="28vUUWtY91V1V11K80DQ-145" value="运费核算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="278" y="142" width="65" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
