@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T07:38:54.464Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="yJzJ5zVkld_hsS7EReg5" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T07:42:19.675Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="cMWk2uaqEbe_GJsM94za" version="12.3.5" type="github" pages="1">
   <diagram id="LsuL_oGiGIazWjCH5oAu" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="XUsGg3tM2NAVNYVNYR5O-48" value="运输业务全程可视化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="35" y="110" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="XUsGg3tM2NAVNYVNYR5O-51" value="整合物流资源，实现业务倍增" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-51" value="整合物流资源，实现业务倍增" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="35" y="150" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="XUsGg3tM2NAVNYVNYR5O-52" value="对接三方服务，减少沟通成本" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -121,34 +121,34 @@
         <mxCell id="XUsGg3tM2NAVNYVNYR5O-66" value="数据调取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="424" y="302" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="XUsGg3tM2NAVNYVNYR5O-69" value="银行接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-69" value="运力交易" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="519" y="165" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="XUsGg3tM2NAVNYVNYR5O-70" value="银行接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-70" value="委托平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="519" y="211.5" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="XUsGg3tM2NAVNYVNYR5O-71" value="银行接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-71" value="在线商城" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="610" y="210.5" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="XUsGg3tM2NAVNYVNYR5O-72" value="银行接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-72" value="定向指派" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="257.5" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="XUsGg3tM2NAVNYVNYR5O-73" value="银行接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-73" value="物流金融" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="610" y="163" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="XUsGg3tM2NAVNYVNYR5O-74" value="银行接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-74" value="车后服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="610" y="255.5" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="XUsGg3tM2NAVNYVNYR5O-75" value="银行接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-75" value="车货匹配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="303.5" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="XUsGg3tM2NAVNYVNYR5O-76" value="银行接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="610" y="300" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="XUsGg3tM2NAVNYVNYR5O-81" value="查询统计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-81" value="发票管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="328" y="347" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="XUsGg3tM2NAVNYVNYR5O-82" value="数据调取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-82" value="运力管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="347.5" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="XUsGg3tM2NAVNYVNYR5O-86" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUsGg3tM2NAVNYVNYR5O-17" target="XUsGg3tM2NAVNYVNYR5O-17">
