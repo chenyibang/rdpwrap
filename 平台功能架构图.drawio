@@ -1,1 +1,79 @@
-<mxfile host="www.draw.io" modified="2019-12-03T06:31:31.135Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" version="12.3.2" etag="DFi_gpj_tRlCcyYlWOc8" type="github" pages="1"><diagram id="LsuL_oGiGIazWjCH5oAu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-03T07:02:32.233Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="0pVU2yD5K7zw8-SfwrAd" version="12.3.5" type="github" pages="1">
+  <diagram id="LsuL_oGiGIazWjCH5oAu" name="第 1 页">
+    <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="160" height="330" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-14" value="平台目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="120" height="330" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-16" value="线上平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="80" width="327" height="330" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-18" value="网络货运平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="40" width="327" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="80" width="120" height="330" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-20" value="对接服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-21" value="短信接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="90" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-22" value="银行接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="130" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-23" value="定位接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="170" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-24" value="保险机构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="210" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-25" value="监管合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="250" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-26" value="电子合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="290" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-27" value="运政接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="330" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-28" value="微信接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="370" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-31" value="PC端入口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="222" y="130" width="98" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-41" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;统一门户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="222" y="160" width="98" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-42" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/iMac_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="226" y="160" width="24" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-43" value="移动端入口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="222" y="225" width="88" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-44" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 微信端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="222" y="255" width="88" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-45" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; APP端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="222" y="295" width="88" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XUsGg3tM2NAVNYVNYR5O-47" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="226" y="272.5" width="30" height="45" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
