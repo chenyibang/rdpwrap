@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-28T11:56:09.203Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="rjNIIPvgOp6s4Q2R9RsJ" version="12.3.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T08:25:13.546Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="M30JXGOq8GoiA7hAIf6r" version="12.3.6" type="github" pages="1">
   <diagram id="_nJWSW1GeGvKb51VGCQV" name="第 1 页">
-    <mxGraphModel dx="1306" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -44,10 +44,10 @@
           <mxGeometry x="340" y="340" width="20" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="FEzbrlHWn4osAoL8CdlV-15" value="Linux OS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="368" y="347.5" width="90" height="25" as="geometry"/>
+          <mxGeometry x="368" y="348" width="62" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="FEzbrlHWn4osAoL8CdlV-16" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="480" y="347.5" width="90" height="25" as="geometry"/>
+          <mxGeometry x="449" y="348" width="62" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="FEzbrlHWn4osAoL8CdlV-17" value="基础硬件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=south;" parent="1" vertex="1">
           <mxGeometry x="340" y="410" width="20" height="40" as="geometry"/>
@@ -154,11 +154,14 @@
         <mxCell id="FEzbrlHWn4osAoL8CdlV-59" value="标准规范" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="672.5" y="385.5" width="55" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="wnMKmI8B12amfmSu3XHW-1" value="信用体系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="wnMKmI8B12amfmSu3XHW-1" value="信用体系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="558" y="140" width="66" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="wnMKmI8B12amfmSu3XHW-2" value="支付管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="wnMKmI8B12amfmSu3XHW-2" value="支付管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="558.5" y="172.5" width="66" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="N1SsBvP0fdjC8GRGYzUU-1" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="533" y="347.5" width="62" height="25" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
