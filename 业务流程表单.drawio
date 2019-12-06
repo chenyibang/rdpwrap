@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-05T08:24:00.265Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="7KjjRcZcGRj1hEmpu9i3" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T07:14:22.334Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="k1NbPxOmt6g3y3yz_wdl" version="12.3.6" type="github" pages="1">
   <diagram id="qYqDt66bANYwKAUjIp7B" name="第 1 页">
-    <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -183,9 +183,9 @@
           <mxGeometry x="270" y="25.500000000000057" width="30" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="28vUUWtY91V1V11K80DQ-109" value="委托" style="text;html=1;fontSize=8;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="290" y="56" width="50" height="28" as="geometry"/>
+          <mxGeometry x="286" y="64.5" width="50" height="28" as="geometry"/>
         </mxCell>
-        <mxCell id="6LW1AeHPkMDRcIlr9ZgV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="28vUUWtY91V1V11K80DQ-112" target="6LW1AeHPkMDRcIlr9ZgV-1">
+        <mxCell id="6LW1AeHPkMDRcIlr9ZgV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="28vUUWtY91V1V11K80DQ-112" target="6LW1AeHPkMDRcIlr9ZgV-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="28vUUWtY91V1V11K80DQ-112" value="发布货源" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
@@ -253,14 +253,14 @@
             <mxPoint x="483" y="361" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LW1AeHPkMDRcIlr9ZgV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6LW1AeHPkMDRcIlr9ZgV-1" target="28vUUWtY91V1V11K80DQ-2">
+        <mxCell id="6LW1AeHPkMDRcIlr9ZgV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="6LW1AeHPkMDRcIlr9ZgV-1" target="28vUUWtY91V1V11K80DQ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="285" y="150"/>
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LW1AeHPkMDRcIlr9ZgV-1" value="车货匹配&lt;br&gt;竞价抢单" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6LW1AeHPkMDRcIlr9ZgV-1" value="车货匹配&lt;br&gt;竞价抢单" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="352" y="92.5" width="103" height="60" as="geometry"/>
         </mxCell>
       </root>
