@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T02:20:20.045Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="v4vX_GerBgFjFXjL6Omx" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T02:21:01.083Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="WNeHqgglr0GuxYEk5c14" version="12.3.6" type="github" pages="1">
   <diagram id="_nJWSW1GeGvKb51VGCQV" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="FEzbrlHWn4osAoL8CdlV-44" value="手机应用平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="405" y="103" width="85" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="FEzbrlHWn4osAoL8CdlV-45" value="服务管理平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="FEzbrlHWn4osAoL8CdlV-45" value="系统管理平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="505" y="102.5" width="85" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="FEzbrlHWn4osAoL8CdlV-46" value="Token/Http" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
