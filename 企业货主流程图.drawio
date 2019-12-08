@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-08T03:28:51.033Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="WLVU7Q--zjpJbkHSU6g5" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-08T03:30:19.190Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="JZgU5IjmV2QAadiXlucO" version="12.3.8" type="github" pages="1">
   <diagram id="ZGmpEk67wGp2lwaBuE9D" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,16 +16,16 @@
         <mxCell id="0giKOAx5Amc7TKUS-MqL-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="120" height="590" as="geometry"/>
         </mxCell>
-        <mxCell id="0giKOAx5Amc7TKUS-MqL-2" value="调度员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0giKOAx5Amc7TKUS-MqL-2" value="调度员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="220" y="90" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="0giKOAx5Amc7TKUS-MqL-3" value="审核员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0giKOAx5Amc7TKUS-MqL-3" value="审核员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="340" y="90" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="0giKOAx5Amc7TKUS-MqL-4" value="财务员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0giKOAx5Amc7TKUS-MqL-4" value="财务员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="460" y="90" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="0giKOAx5Amc7TKUS-MqL-5" value="企业货主" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC0000;" vertex="1" parent="1">
+        <mxCell id="0giKOAx5Amc7TKUS-MqL-5" value="企业货主" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="100" y="50" width="480" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="0giKOAx5Amc7TKUS-MqL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0giKOAx5Amc7TKUS-MqL-7" target="0giKOAx5Amc7TKUS-MqL-8">
@@ -43,7 +43,7 @@
         <mxCell id="0giKOAx5Amc7TKUS-MqL-10" value="分配角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="290" width="80" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="0giKOAx5Amc7TKUS-MqL-13" value="货主认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0giKOAx5Amc7TKUS-MqL-13" value="货主认证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="100" y="90" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="0giKOAx5Amc7TKUS-MqL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0giKOAx5Amc7TKUS-MqL-17" target="0giKOAx5Amc7TKUS-MqL-19">
