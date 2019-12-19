@@ -1,1 +1,81 @@
-<mxfile host="www.draw.io" modified="2019-12-19T08:00:15.358Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" version="12.4.2" etag="1oZaLIeifP4Asis_JVt2" type="github" pages="1"><diagram id="lEdnrH6_I6gst2Sz20ov">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-19T09:08:06.113Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="3TDFZDfMxk5vyDJUlhHm" version="12.4.3" type="github" pages="1">
+  <diagram id="lEdnrH6_I6gst2Sz20ov" name="第 1 页">
+    <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qig-UYuH7PKLjjtk4jmf-1" target="Qig-UYuH7PKLjjtk4jmf-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="100"/>
+              <mxPoint x="310" y="100"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-1" value="基本货源信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qig-UYuH7PKLjjtk4jmf-2" target="Qig-UYuH7PKLjjtk4jmf-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-2" value="承运信息&lt;br style=&quot;font-size: 13px&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qig-UYuH7PKLjjtk4jmf-3" target="Qig-UYuH7PKLjjtk4jmf-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-3" value="发货单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qig-UYuH7PKLjjtk4jmf-4" target="Qig-UYuH7PKLjjtk4jmf-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="100"/>
+              <mxPoint x="310" y="100"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-4" value="收货单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qig-UYuH7PKLjjtk4jmf-6" target="Qig-UYuH7PKLjjtk4jmf-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Qig-UYuH7PKLjjtk4jmf-6" target="Qig-UYuH7PKLjjtk4jmf-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="140"/>
+              <mxPoint x="380" y="260"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Qig-UYuH7PKLjjtk4jmf-6" target="Qig-UYuH7PKLjjtk4jmf-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="140"/>
+              <mxPoint x="240" y="260"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-6" value="货源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;glass=0;comic=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-20" value="运单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-22" value="指派司机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="185" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-29" value="&lt;span style=&quot;font-size: 13px&quot;&gt;价格/时限/车辆要求等&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="20" width="130" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-31" value="承运抢单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="378" y="194" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qig-UYuH7PKLjjtk4jmf-33" value="承运竞价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="180" y="185" width="60" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
