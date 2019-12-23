@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-23T02:03:27.913Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="h6qfTHmJg4jHlrmp7Bi7" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-23T02:06:55.813Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="cpwXY-gPuAP-HPYK3pgN" version="12.4.3" type="github" pages="1">
   <diagram id="qYqDt66bANYwKAUjIp7B" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="28vUUWtY91V1V11K80DQ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="28vUUWtY91V1V11K80DQ-52" target="28vUUWtY91V1V11K80DQ-54" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="28vUUWtY91V1V11K80DQ-52" value="货主申请开票" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;" parent="1" vertex="1">
+        <mxCell id="28vUUWtY91V1V11K80DQ-52" value="申请开票" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;" parent="1" vertex="1">
           <mxGeometry x="279" y="625.5" width="70" height="37" as="geometry"/>
         </mxCell>
         <mxCell id="28vUUWtY91V1V11K80DQ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="28vUUWtY91V1V11K80DQ-54" target="28vUUWtY91V1V11K80DQ-58" edge="1">
