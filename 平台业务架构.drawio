@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-25T06:41:33.898Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="FVvmmyJhpfdwcSh1--su" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-25T07:50:07.710Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="kBv2ZFe7p9igavBlTnia" version="12.4.3" type="github" pages="1">
   <diagram id="-nn4AsLn7PGe3ivvdlx4" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -166,19 +166,19 @@
         <mxCell id="8HuKaqYBnluxzePO3Gni-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="540" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="8HuKaqYBnluxzePO3Gni-85" value="业务流数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;rounded=0;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+        <mxCell id="8HuKaqYBnluxzePO3Gni-85" value="业务流数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="400" y="313" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="8HuKaqYBnluxzePO3Gni-86" value="" style="endArrow=classic;html=1;strokeColor=#36393d;shape=flexArrow;endWidth=68;endSize=8.05;width=64;fillColor=#cce5ff;dashed=1;" edge="1" parent="1">
+        <mxCell id="8HuKaqYBnluxzePO3Gni-86" value="" style="endArrow=classic;html=1;strokeColor=#36393d;shape=flexArrow;endWidth=68;endSize=8.05;width=64;fillColor=#cce5ff;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="523.25" y="298.63" as="sourcePoint"/>
             <mxPoint x="523" y="261.63" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8HuKaqYBnluxzePO3Gni-87" value="轨迹流数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+        <mxCell id="8HuKaqYBnluxzePO3Gni-87" value="轨迹流数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="490" y="313" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="8HuKaqYBnluxzePO3Gni-89" value="资金流数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+        <mxCell id="8HuKaqYBnluxzePO3Gni-89" value="资金流数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="580" y="313" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="8HuKaqYBnluxzePO3Gni-90" value="分布式计算平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
@@ -300,6 +300,9 @@
         </mxCell>
         <mxCell id="8HuKaqYBnluxzePO3Gni-149" value="本期规划" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="40" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="8HuKaqYBnluxzePO3Gni-150" value="平台功能架构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="355" y="40" width="120" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
