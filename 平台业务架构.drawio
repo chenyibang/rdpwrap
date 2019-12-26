@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-26T02:17:52.042Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="X6LBgc3eka0wq5pwET5u" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-26T02:19:27.868Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="8R8MJqI06YBPjRXgqgXh" version="12.4.3" type="github" pages="1">
   <diagram id="-nn4AsLn7PGe3ivvdlx4" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -311,13 +311,13 @@
           <mxGeometry x="568.25" y="289" width="100" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="8HuKaqYBnluxzePO3Gni-159" value="3万亿 整车运输 区域性分散" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=1;fontSize=14;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="60" y="650" width="430" height="50" as="geometry"/>
+          <mxGeometry x="60" y="650" width="430" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="8HuKaqYBnluxzePO3Gni-160" value="1.1万亿 零担运输" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fontSize=14;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="650" width="190" height="50" as="geometry"/>
+          <mxGeometry x="490" y="650" width="190" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="8HuKaqYBnluxzePO3Gni-161" value="4000亿快运快递" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="680" y="650" width="100" height="50" as="geometry"/>
+          <mxGeometry x="680" y="650" width="100" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
