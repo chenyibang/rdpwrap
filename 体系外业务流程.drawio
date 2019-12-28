@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T08:13:20.868Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="e9lFnrUgZZbgSPFVIOep" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-28T08:21:48.923Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="uc0PsdNxFfOg9zhdyjpv" version="12.4.7" type="github">
   <diagram id="B-St81CDL6i98inCR_Cj" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
         <mxCell id="LeGU5Av7BmG3cuybzMRu-105" value="整车货源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="140" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="LeGU5Av7BmG3cuybzMRu-109" value="供应商担责运输责任" style="edgeStyle=orthogonalEdgeStyle;rounded=1;comic=0;jumpStyle=gap;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" edge="1" parent="1" source="LeGU5Av7BmG3cuybzMRu-108" target="LeGU5Av7BmG3cuybzMRu-57">
+        <mxCell id="LeGU5Av7BmG3cuybzMRu-109" value="供应商承担运输责任" style="edgeStyle=orthogonalEdgeStyle;rounded=1;comic=0;jumpStyle=gap;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=#000000;" edge="1" parent="1" source="LeGU5Av7BmG3cuybzMRu-108" target="LeGU5Av7BmG3cuybzMRu-57">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="LeGU5Av7BmG3cuybzMRu-108" value="&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;courier new&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;收发货信息&lt;/span&gt;&lt;br style=&quot;font-size: 11px ; font-family: &amp;#34;courier new&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;font-size: 11px ; font-family: &amp;#34;courier new&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;车辆要求等&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
