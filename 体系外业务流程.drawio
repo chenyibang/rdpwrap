@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T08:22:25.892Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="ZzW2cw4XpfYkyLqR1nN0" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-28T08:26:12.532Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="GjUIpSzAuwoyyVuAT2Mv" version="12.4.7" type="github">
   <diagram id="B-St81CDL6i98inCR_Cj" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="LeGU5Av7BmG3cuybzMRu-47" value="结算账期&lt;br&gt;1个月/3个月" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="293" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="LeGU5Av7BmG3cuybzMRu-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LeGU5Av7BmG3cuybzMRu-57" target="LeGU5Av7BmG3cuybzMRu-27">
+        <mxCell id="LeGU5Av7BmG3cuybzMRu-62" value="无轨迹,不用上传运单" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LeGU5Av7BmG3cuybzMRu-57" target="LeGU5Av7BmG3cuybzMRu-27">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="LeGU5Av7BmG3cuybzMRu-57" value="承运" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
