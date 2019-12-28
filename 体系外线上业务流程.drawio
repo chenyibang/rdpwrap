@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T15:48:49.494Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="kQVG2gRrTTvm0gCWMqj8" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-28T15:53:18.693Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="cQXBSukJppX6OHw7GP-G" version="12.4.7" type="github">
   <diagram id="GqhF5LSO889hNfZmh-d_" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
         <mxCell id="aDIp891v4BjhqhOBZq3--115" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aDIp891v4BjhqhOBZq3--44" target="aDIp891v4BjhqhOBZq3--88">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="aDIp891v4BjhqhOBZq3--44" value="回单审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aDIp891v4BjhqhOBZq3--44" value="回单审核&lt;br&gt;轨迹审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="631" width="80" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="aDIp891v4BjhqhOBZq3--45" value="司机钱包" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -279,6 +279,12 @@
         </mxCell>
         <mxCell id="aDIp891v4BjhqhOBZq3--159" value="转化为自有运力" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="460" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aDIp891v4BjhqhOBZq3--160" value="油品发票&lt;br&gt;ETC进项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="801" width="75" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="aDIp891v4BjhqhOBZq3--161" value="运单数据上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="850" width="75" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
