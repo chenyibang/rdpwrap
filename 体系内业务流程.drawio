@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T04:28:13.411Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="fQZSA4JJxFOI5ajDF5a2" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-28T04:42:14.387Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="RZP_POYPqVaGMagP-Bi2" version="12.4.7" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
         <mxCell id="u1L2SfcCjU4-NtM9rCVa-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=13;" edge="1" parent="1" source="u1L2SfcCjU4-NtM9rCVa-65" target="u1L2SfcCjU4-NtM9rCVa-67">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="u1L2SfcCjU4-NtM9rCVa-65" value="提货&lt;br&gt;回单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u1L2SfcCjU4-NtM9rCVa-65" value="提货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="638" y="290" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="u1L2SfcCjU4-NtM9rCVa-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=13;" edge="1" parent="1" source="u1L2SfcCjU4-NtM9rCVa-67" target="u1L2SfcCjU4-NtM9rCVa-71">
@@ -167,7 +167,7 @@
         <mxCell id="u1L2SfcCjU4-NtM9rCVa-80" value="供应商打款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="380" y="460" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="u1L2SfcCjU4-NtM9rCVa-87" value="按结算账期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="u1L2SfcCjU4-NtM9rCVa-87" value="按账期结算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="510" y="430" width="70" height="20" as="geometry"/>
         </mxCell>
       </root>
