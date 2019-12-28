@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T08:32:04.185Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="N8uOdiv8nENSBP8WgJMw" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-28T08:33:09.015Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="SeGHVmjmXdMAwW3N2VMw" version="12.4.7" type="github">
   <diagram id="ZGmpEk67wGp2lwaBuE9D" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="8g7vj4kVQeNR7TMHVO_h-53" value="供应商收款" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="390" y="640" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="8g7vj4kVQeNR7TMHVO_h-62" value="9%的税率" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#000000;align=center;" parent="1" source="8g7vj4kVQeNR7TMHVO_h-60" target="8g7vj4kVQeNR7TMHVO_h-61" edge="1">
+        <mxCell id="8g7vj4kVQeNR7TMHVO_h-62" value="9%税率发票" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#000000;align=center;" parent="1" source="8g7vj4kVQeNR7TMHVO_h-60" target="8g7vj4kVQeNR7TMHVO_h-61" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="8g7vj4kVQeNR7TMHVO_h-60" value="月结发票" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
