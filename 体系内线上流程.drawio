@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T08:09:43.240Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="SPY1w4htXkrFzXQKKz8D" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-30T08:23:08.339Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="Jlo22xMUCDpjh39CKpjB" version="12.4.7" type="github">
   <diagram id="3_ST8aORF-W1Ic3_STmp" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
           <mxGeometry x="540" y="500" width="75" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="tVjI4oLR0k96hLmSN2iQ-105" value="统计报表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="530" width="75" height="30" as="geometry"/>
+          <mxGeometry x="677.5" y="500" width="75" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="tVjI4oLR0k96hLmSN2iQ-110" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="tVjI4oLR0k96hLmSN2iQ-108" target="tVjI4oLR0k96hLmSN2iQ-25" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -245,7 +245,7 @@
         <mxCell id="ZWZ5OIvvonjbeggmRMI_-22" value="运输责任由供应商承担" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="228" width="140" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ZWZ5OIvvonjbeggmRMI_-27" value="账期三月结" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZWZ5OIvvonjbeggmRMI_-27" value="三个月&lt;br&gt;结算账期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="390" width="80" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="ZWZ5OIvvonjbeggmRMI_-28" value="财辅接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
