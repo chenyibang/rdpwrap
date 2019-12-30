@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T03:48:17.200Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="zlW85N92LRGH3xh7anr5" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-30T03:49:25.953Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="8a6tpqhZM7WHiXIxUYtk" version="12.4.7" type="github">
   <diagram id="GqhF5LSO889hNfZmh-d_" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
           <mxGeometry x="570" y="891" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="aDIp891v4BjhqhOBZq3--97" value="添加线路&lt;br&gt;收发货信息&lt;br&gt;车辆要求等" style="text;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="270" width="60" height="30" as="geometry"/>
+          <mxGeometry x="190" y="278" width="60" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="aDIp891v4BjhqhOBZq3--98" value="回单上传&lt;br&gt;承运凭证" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="726" y="328" width="70" height="30" as="geometry"/>
@@ -386,6 +386,9 @@
         </mxCell>
         <mxCell id="Va3li716RutP_-qDnmS4-12" value="线下流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="715" y="816" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="Va3li716RutP_-qDnmS4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aDIp891v4BjhqhOBZq3--97" target="aDIp891v4BjhqhOBZq3--97">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
