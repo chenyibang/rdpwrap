@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T08:24:14.157Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="ox1UKnijNFTmL-ZOK7N0" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-30T08:29:43.188Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="y8gEvN05v5Y1d5_P_7V9" version="12.4.7" type="github">
   <diagram id="GqhF5LSO889hNfZmh-d_" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="40" y="119.5" width="780" height="820.5" as="geometry"/>
         </mxCell>
         <mxCell id="aDIp891v4BjhqhOBZq3--2" value="平台调度人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="160" y="90" width="120" height="30" as="geometry"/>
+          <mxGeometry x="160" y="90" width="130" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="aDIp891v4BjhqhOBZq3--3" value="&lt;span style=&quot;white-space: normal&quot;&gt;司机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="280" y="90" width="130" height="30" as="geometry"/>
+          <mxGeometry x="290" y="90" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="aDIp891v4BjhqhOBZq3--4" value="平台审核人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="410" y="90" width="90" height="30" as="geometry"/>
