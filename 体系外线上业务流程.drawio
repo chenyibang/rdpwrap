@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T08:19:44.055Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="Y_BC9iaRfhTXDOTmc8XE" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-30T08:24:14.157Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="ox1UKnijNFTmL-ZOK7N0" version="12.4.7" type="github">
   <diagram id="GqhF5LSO889hNfZmh-d_" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="aDIp891v4BjhqhOBZq3--12" value="零担供应商" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="690" y="90" width="130" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="aDIp891v4BjhqhOBZq3--14" value="按结算账期" style="edgeStyle=orthogonalEdgeStyle;rounded=1;comic=0;jumpStyle=gap;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aDIp891v4BjhqhOBZq3--98" target="aDIp891v4BjhqhOBZq3--19" edge="1">
+        <mxCell id="aDIp891v4BjhqhOBZq3--14" value="按账期月结" style="edgeStyle=orthogonalEdgeStyle;rounded=1;comic=0;jumpStyle=gap;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aDIp891v4BjhqhOBZq3--98" target="aDIp891v4BjhqhOBZq3--19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="761" y="340" as="sourcePoint"/>
           </mxGeometry>
