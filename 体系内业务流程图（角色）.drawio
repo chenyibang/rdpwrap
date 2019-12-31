@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T09:07:33.962Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="66PR_7gqLXGOp0IvDhs-" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-31T02:03:15.368Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="iX0uR317uu0_QUUeQztp" version="12.4.7" type="github">
   <diagram id="ZGmpEk67wGp2lwaBuE9D" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -40,10 +40,10 @@
         <mxCell id="8g7vj4kVQeNR7TMHVO_h-3" value="选择司机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="148" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="8g7vj4kVQeNR7TMHVO_h-47" value="账期月结" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#000000;align=center;" parent="1" source="8g7vj4kVQeNR7TMHVO_h-11" target="8g7vj4kVQeNR7TMHVO_h-37" edge="1">
+        <mxCell id="8g7vj4kVQeNR7TMHVO_h-47" value="按账期结算" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#000000;align=center;" parent="1" source="8g7vj4kVQeNR7TMHVO_h-11" target="8g7vj4kVQeNR7TMHVO_h-37" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="8g7vj4kVQeNR7TMHVO_h-52" value="单笔结算" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#000000;align=center;" parent="1" source="8g7vj4kVQeNR7TMHVO_h-11" target="8g7vj4kVQeNR7TMHVO_h-51" edge="1">
+        <mxCell id="8g7vj4kVQeNR7TMHVO_h-52" value="按账期或者单笔结算" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#000000;align=center;" parent="1" source="8g7vj4kVQeNR7TMHVO_h-11" target="8g7vj4kVQeNR7TMHVO_h-51" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="8g7vj4kVQeNR7TMHVO_h-11" value="供应商&lt;br&gt;回单确认" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -150,6 +150,9 @@
         </mxCell>
         <mxCell id="ajwpSMRfafwZiaIAJwdi-10" value="赵智海" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="148" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="y7Q9roxIu-ghq0fBDigO-1" value="账期通常为三个月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="420" width="130" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
