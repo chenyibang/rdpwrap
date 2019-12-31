@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-31T02:36:53.270Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="BsuGlOWvCLD_E8ZrljkY" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-31T02:43:11.787Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="T6k2_l2Jm9waitDmIymW" version="12.4.7" type="github">
   <diagram id="GqhF5LSO889hNfZmh-d_" name="第 1 页">
     <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,6 +369,9 @@
         </mxCell>
         <mxCell id="Va3li716RutP_-qDnmS4-47" value="&lt;span style=&quot;white-space: normal&quot;&gt;司机3%税率发票&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#0e8088;fillColor=#b0e3e6;" parent="1" vertex="1">
           <mxGeometry x="540" y="880" width="66" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="7JaCbd_V4Kj3HFTb-mwl-1" value="资质认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="726" y="180" width="70" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
