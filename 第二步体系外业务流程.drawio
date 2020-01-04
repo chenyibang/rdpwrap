@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-04T17:07:20.786Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="s168Xtx55NPS1MU2S1LF" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-04T17:53:51.599Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="_NkEwaIRfbcyD6VZyAxy" version="12.4.8" type="github">
   <diagram id="8TvubltDARuL_yRG-VaN" name="第 1 页">
-    <mxGraphModel dx="854" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -147,7 +147,7 @@
         <mxCell id="LgR1iDOE375VADutgjRK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LgR1iDOE375VADutgjRK-34" target="LgR1iDOE375VADutgjRK-39">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="LgR1iDOE375VADutgjRK-41" value="虚拟打款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="LgR1iDOE375VADutgjRK-40">
+        <mxCell id="LgR1iDOE375VADutgjRK-41" value="虚拟打款&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;油卡支付&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="LgR1iDOE375VADutgjRK-40">
           <mxGeometry x="0.6155" y="-1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -203,6 +203,9 @@
         </mxCell>
         <mxCell id="LgR1iDOE375VADutgjRK-55" value="为司机代开3%税率发票" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="275" y="580" width="70" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="LgR1iDOE375VADutgjRK-59" value="获取ETC发票进项" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="266" y="437.5" width="70" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
