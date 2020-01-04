@@ -1,1 +1,87 @@
-<mxfile host="www.draw.io" modified="2020-01-04T17:09:28.165Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" version="12.4.8" etag="aw3vihExjVsdPJi5sITz" type="github"><diagram id="9pcAvjz2o2e7MNiDoAQC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-04T17:30:11.226Z" agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="RJtyrJD2dQ0xAoPbK1vq" version="12.4.8" type="github">
+  <diagram id="9pcAvjz2o2e7MNiDoAQC" name="第 1 页">
+    <mxGraphModel dx="854" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-3" value="新线路&lt;br&gt;合同到期" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FTG0qAh9ePbzGiuoQJaJ-1" target="FTG0qAh9ePbzGiuoQJaJ-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-1" value="零担供应商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTG0qAh9ePbzGiuoQJaJ-2" target="FTG0qAh9ePbzGiuoQJaJ-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-2" value="平台审核入围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FTG0qAh9ePbzGiuoQJaJ-4" target="FTG0qAh9ePbzGiuoQJaJ-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-4" value="议价招标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-7" value="最低价采纳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FTG0qAh9ePbzGiuoQJaJ-9" target="FTG0qAh9ePbzGiuoQJaJ-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-9" value="零担供应商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTG0qAh9ePbzGiuoQJaJ-16" target="FTG0qAh9ePbzGiuoQJaJ-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-20" value="新线路&lt;br&gt;合同到期" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="FTG0qAh9ePbzGiuoQJaJ-18">
+          <mxGeometry x="-0.3116" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-16" value="注册认证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FTG0qAh9ePbzGiuoQJaJ-10" target="FTG0qAh9ePbzGiuoQJaJ-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-10" value="平台审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-15" value="每方&lt;br&gt;每吨" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FTG0qAh9ePbzGiuoQJaJ-12" target="FTG0qAh9ePbzGiuoQJaJ-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-12" value="单价议价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FTG0qAh9ePbzGiuoQJaJ-14" target="FTG0qAh9ePbzGiuoQJaJ-22">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-14" value="最低价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FTG0qAh9ePbzGiuoQJaJ-22" target="FTG0qAh9ePbzGiuoQJaJ-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-22" value="最优服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FTG0qAh9ePbzGiuoQJaJ-24" target="FTG0qAh9ePbzGiuoQJaJ-27">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-24" value="平台采纳" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-27" value="供应商停止开票" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-29" value="零担供应商议价线上流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="160" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="FTG0qAh9ePbzGiuoQJaJ-30" value="零担供应商议价线下流程图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="160" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
